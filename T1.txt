@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 hello
 
+=======
+hello july batch
+>>>>>>> e5c3fa12aa1310e74c7126e3ce8166024c8d1ea6
